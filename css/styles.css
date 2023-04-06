@@ -32,6 +32,7 @@ button {
 
 button:hover  {
     background-color: #102f5e;
+    color: #FFF;
 }
 
 button:hover > i {
@@ -41,4 +42,5 @@ button:hover > i {
 button i {
 color: #102f5e;
 font-weight: bold;
+pointer-events: none;
 }
