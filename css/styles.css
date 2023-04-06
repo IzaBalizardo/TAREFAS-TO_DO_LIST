@@ -39,5 +39,6 @@ button:hover > i {
 }
 
 button i {
-
+color: #102f5e;
+font-weight: bold;
 }
